@@ -2,6 +2,7 @@
 
 ILP-based algorithm to solve the problem of SFC embedding. Solver: MATLAB integrated with IBM-CPLEX
 
+**Example:**
 An example of embedding one SFC of 3 VNFs:
 
 ![An example of embedding one SFC of 3 VNFs](https://github.com/luuquangtrung/sfc_embedding/blob/main/example.jpg)
