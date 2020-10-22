@@ -1,6 +1,6 @@
 # sfc_embedding
 
-ILP-based algorithm to solve the problem of SFC embedding. Solver: MATLAB integrated with IBM-CPLEX
+ILP-based algorithm to solve the problem of SFC embedding.
 
 **Example:**
 An example of embedding one SFC of 3 VNFs:
