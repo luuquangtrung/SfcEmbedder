@@ -17,6 +17,9 @@ An example of embedding one SFC of 3 VNFs:
 * The default SFC embedding solver is the MATLAB's function `intlinprog`
 * Alternative solver: `cplexmilp` (need to change `milp_solver` in line `272` of `vne_solver.m` to `cplex`)
 
+**Prerequisites:**
+* This code uses `graph`, an object that needs MATLAB R2015b or earlier versions to properly operate.
+
 **References:**
 Please consider to cite the following papers if you use this code as your cornerstone
 * [Luu2020] Q.-T. Luu, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Coverage-Aware Resource Provisioning Method for Network Slicing," in *IEEE/ACM Transactions on Networking*, 2020. [URL]()
