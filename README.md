@@ -14,7 +14,7 @@ An example of embedding one SFC of 3 VNFs:
 * `vne_solver.m`: SFC embedding solver
 
 **Solver:**
-* The SFC embedding solver is MATLAB `intlinprog` by default
+* The default SFC embedding solver is the MATLAB's function `intlinprog`
 * Alternative solver: `cplexmilp` (need to change `milp_solver` line `272` to `cplex`)
 
 **References:**
