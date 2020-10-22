@@ -19,6 +19,7 @@ An example of embedding one SFC of 3 VNFs:
 
 **Prerequisites:**
 * This code uses `graph`, an object that needs MATLAB R2015b or earlier versions to properly operate.
+* If `cplexmilp` is chosen as solver, an installation of IBM CPLEX is required. IBM offers free licence to students/academic researchers. See [here](https://www.ibm.com/support/pages/downloading-ibm-ilog-cplex-optimization-studio-v1290) for more.
 
 **References:**
 Please consider to cite the following papers if you use this code as your cornerstone
