@@ -1,4 +1,4 @@
-# sfc_embedding
+# SfcEmbedder
 
 ILP-based algorithm to solve the problem of SFC embedding.
 
