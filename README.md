@@ -25,3 +25,5 @@ An example of embedding one SFC of 3 VNFs:
 Please consider to cite the following papers if you use this code as your cornerstone
 * [Luu2020] Q.-T. Luu, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Coverage-Aware Resource Provisioning Method for Network Slicing," in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, doi: 10.1109/TNET.2020.3019098 [URL](https://ieeexplore.ieee.org/document/9187556)
 * [Luu2018] Q.-T. Luu, M. Kieffer, A. Mouradian, and S. Kerboeuf, "Aggregated Resource Provisioning for Network Slices," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, Dec. 2018, pp. 1-6. [URL](https://ieeexplore.ieee.org/abstract/document/8648039)
+
+(c) 2020 Quang-Trung Luu
